@@ -8,7 +8,7 @@ def count_words(input_text):
     Returns:
     int: The number of words in the input text.
     """
-    # Split the input text into words based on whitespace
+    # Split the input text into words based on whitespace 
     words = input_text.split()
     # Return the number of words
     return len(words)
@@ -34,3 +34,4 @@ def main():
 # Entry point of the program
 if __name__ == "__main__":
     main()
+# Program is complete
