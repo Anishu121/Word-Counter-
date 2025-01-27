@@ -21,7 +21,7 @@ def main():
     # Prompt the user to enter a sentence or paragraph
     user_input = input("Please enter a sentence or paragraph: ")
     
-    # Check if the input is empty
+    # Check if the input are empty 
     if not user_input.strip():
         print("Error: You entered an empty input. Please provide a valid sentence or paragraph.")
         return  # Exit the function if input is empty
