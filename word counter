@@ -4,7 +4,7 @@ def count_words(input_text):
     
     Parameters:
     input_text (str): The text input from the user.
-    #input the value
+    #input the value for text
 
     Returns:
     int: The number of words in the input text.
